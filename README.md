@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Alex i'm a 17 year old Student currently learning Web-Development
-What I'm currently learning:
+I'm Alex i'm a 17 year old Student currently learning Web-Development<br>
+What I'm currently learning:<br>
 HTML / CSS / JS / PHP / SQL
 
-If you would love you would love to give me suggestions or any help feel free to email me with a sutable "Subject"! 
+If you would like to give me suggestions or any help feel free to email me with a sutable "Subject"! 
 
-Extra Hobbies Involve:
+Extra Hobbies Involve:<br>
 Guitar / Cooking / Gaming
